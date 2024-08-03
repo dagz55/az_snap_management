@@ -258,7 +258,7 @@ def main():
             console.print("[red]Please run 'az login' and try again.[/red]")
             return
 
-        filename = console.input("Enter the filename with snapshot IDs: ")
+        filename = console.input("Enter the filename with snapshot IDs (default: snap_rid_list.txt): ") or "snap_rid_list.txt"
         if not os.path.isfile(filename):
             console.print(f"[bold red]File {filename} does not exist.[/bold red]")
             return

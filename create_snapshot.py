@@ -24,6 +24,14 @@ with open(log_file, "a") as f:
 # Define the number of days after which snapshots should be considered expired
 expire_days = 3
 
+# Create a Semaphore with a value of 10 to limit the number of concurrent tasks
+semaphore = asyncio.Semaphore(10)
+
+async def process_vm(resource_id, vm_name):
+    async with semaphore:
+        write_detailed_log(f"Processing VM: {vm_name}")
+    write_detailed_log(f"Resource ID: {resource_id}")
+
 # Create lists for successful and failed snapshots
 successful_snapshots = []
 failed_snapshots = []
