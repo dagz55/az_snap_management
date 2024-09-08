@@ -4,3 +4,4 @@ aiohttp
 azure-identity 
 azure-mgmt-compute 
 azure-mgmt-resource
+azure-cli

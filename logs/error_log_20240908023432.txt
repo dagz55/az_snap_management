@@ -1,0 +1,87 @@
+2024-09-08 02:34:35.374044: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm010b14 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:36.162810: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm010b15 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:36.952485: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm010b16 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:37.752230: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm010b17 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:38.631217: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm011436 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:39.471836: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm011437 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:40.319294: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm011438 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:41.107972: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm011439 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:41.878140: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm01165a --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:42.716136: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm01165b --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:43.560808: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm01166a --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:44.347706: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm01166b --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:45.260488: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm01166c --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:46.116282: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-EASTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm01166d --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:46.919969: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-cachedns-prod2-primary-vm-pgm011658_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:47.714850: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-cachedns-prod2-primary-vm-pgm011659_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:48.539788: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dmzdns-prod2-primary-vm-pgm011654_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:49.397170: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dmzdns-prod2-primary-vm-pgm011655_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:50.282203: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dns-prod-admin-vm-pgm011432_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:51.165386: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dns-prod-admin-vm-pgm011433_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:51.978669: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dns-prod-admin-vm-pgm011434_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:52.758716: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dns-prod-admin-vm-pgm0114a3_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:53.554597: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dns-prod-master-vm-pgm011697_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:54.388251: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dns-prod-primary-vm-pgm011650_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:55.180419: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-dns-prod-slave-vm-pgm011835_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:56.199520: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-extdns-prod2-primary-vm-pgm011656_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:57.034569: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/AZ-CORE-PROD-01-ESNS-PROD2-WESTUS-RG-01/providers/Microsoft.Compute/snapshots/RH_CHG0641773_esns-extdns-prod2-primary-vm-pgm011657_20240902130520 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:57.820868: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/az-core-prod-01-nina-prod-westus-rg-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm011302 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
+2024-09-08 02:34:58.600584: Error running command: az snapshot show --ids /subscriptions/5cdb8a38-5edf-4090-9e49-c28ecb16d982/resourceGroups/az-core-prod-01-nina-prod-westus-rg-01/providers/Microsoft.Compute/snapshots/RH_PATCH_CHG0641773_pgm011303 --query '{name:name, resourceGroup:resourceGroup, timeCreated:timeCreated, diskSizeGb:diskSizeGb, provisioningState:provisioningState}' -o json
+Error: ERROR: Please run 'az login' to setup account.
+
